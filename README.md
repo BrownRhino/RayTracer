@@ -3,7 +3,6 @@ Raymond the Tracer, part of a graphics assignment
 
 RAY TRACE README
 SAHIBDEEP SRAN
-December 12/2014
 
 This assignment required us to build a ray tracer.  This means we build a scene and shoot rays through a grid plane in order to 
 build a high quality picture of our scene.  
@@ -61,10 +60,10 @@ hand corner of the qt window.
 Features implemented
 
 Put the sphere inside a room-like space (a cube without one side) and render the 5 visible
-ways with different colours. (2 points)
+ways with different colours.
 
-Cast sufficient number of rays so the rendered image is correctly anti-aliased. (2 points)
+Cast sufficient number of rays so the rendered image is correctly anti-aliased.
 
-Cast the shadow from the sphere onto those walls. (3 points)
+Cast the shadow from the sphere onto those walls.
 
-Model and ray tracing a triangle mesh, for example a cube, in the same scene. (3 points)
+Model and ray tracing a triangle mesh, for example a cube, in the same scene.
